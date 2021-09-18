@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+    letter-spacing: 1px;
+    line-height: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    letter-spacing: 1px;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.content {
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    align-items: center;
+    position: relative;
+    left: 10%;
+    margin: auto;
+
+}
+
+.content ul{
+    padding: 15px 15px 15px 40px;
+}
+
+.content ul li {
+    margin-bottom: 15px;
+}
+
+.link {
+    color: blue;
+    font-size: 16px;
+    font-style: italic;
+}
